@@ -1,1 +1,1 @@
-Welcome git init
+git commit -m My first commitgit commit -m My first commitgit commit -m My first commit!
